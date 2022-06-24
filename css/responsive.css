@@ -1,0 +1,261 @@
+@media (max-width: 1024px) {
+	
+
+}
+
+@media (min-width: 768px ) and (max-width: 991px){
+
+	
+.slider-banner h4 {
+    font-size: 34.16px;
+ 
+}
+.col-md-3 {
+    flex: 0 0 50%;
+    max-width: 50%;
+}
+.services-product {
+    margin-bottom: 60px;
+}
+.author-about-text {
+    padding-left: 20px;
+    padding-right: 0;
+}
+.footer-area ul li a {
+    padding-left: 6px;
+    padding-right: 10px;
+
+}
+.contact .title-bottom p {
+    font-size: 16px;
+}
+
+.author-item {
+    display:inherit;
+    margin-bottom: 70px;
+    text-align: center;
+}
+.author-img img {
+    margin-bottom: 20px;
+}
+.team-content img {
+    width: 150px;
+    height: 150px;
+    margin-bottom: 24px;
+}
+.team-area{
+	padding-top:80px;
+
+}
+}
+@media (max-width: 767px){
+	.slider-banner h4 {
+    font-size: 29.16px;
+ 
+}
+.team-title .common-sec-title h3 {
+    font-size: 32px;
+}
+.title-bottom p {
+    font-size: 15px;
+}
+.about-us-area {
+    padding-top: 100px;
+}
+.portfolio-area {
+    padding-top: 100px;
+}
+.team-area {
+    padding-top: 100px;
+
+}
+.services-area {
+    padding-top: 100px;
+  
+}
+.team-content img {
+    width: 150px;
+    height: 150px;
+   
+}
+.about-us-title h3 {
+    font-size: 31px;
+}
+.author-item {
+    display:inherit;
+    margin-bottom: 70px;
+    text-align: center;
+}
+.author-img img {
+    margin-bottom: 20px;
+}
+.footer-area ul li a {
+    font-size: 15px;
+    padding-left: 5px;
+    padding-right: 5px;
+}
+.footer-area ul {
+    padding-top: 25px;
+    padding-bottom: 25px;
+}
+.title-bottom p {
+    font-size: 13px;
+}
+}
+@media (max-width: 480px){
+.our-services .common-sec-title h3 {
+    font-size: 26px;
+}
+.slider-area {
+    padding-top: 58px;
+    padding-bottom: 58px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+.common-button button {
+    padding: 20px 70px;
+}
+.services-area {
+    padding-top: 65px;
+}
+.services-product {
+    margin-bottom: 20px;
+}
+.team-area {
+    padding-top: 70px;
+}
+.team-title .title-bottom {
+    padding-bottom: 57px;
+}
+.team-title .common-sec-title h3 {
+    font-size: 21px;
+}
+.team-area {
+    padding-bottom: 0px;
+}
+.portfolio-area {
+    padding-top: 60px;
+}
+.portfolio .common-sec-title h3 {
+    color: black;
+    font-size: 35px;
+}
+.portfolio-button ul li a {
+    font-size: 14px;
+    padding: 6px 19px;
+}
+.portfolio-area {
+    padding-bottom: 60px;
+}
+.about-us-area {
+    padding-top: 60px;
+}
+.about-us-title h3 {
+    font-size: 24px;
+}
+.title-bottom {
+    padding-bottom: 39px;
+}
+.author-about-text {
+    padding-left: 7px;
+    padding-right: 7px;
+}
+.author-item {
+    padding-left: 0px;
+}
+.footer-area ul li a {
+    font-size: 13px;
+}
+
+}
+@media(max-width: 320px){
+	.slider-banner h4 {
+    font-size: 17.16px;
+}
+.slider-area {
+    padding-top: 50px;
+    padding-bottom: 50px;
+    padding-left: 28px;
+    padding-right: 28px;
+}
+.common-button button {
+    padding: 12px 60px;
+}
+.services-area {
+    padding-top: 50px;
+}
+.our-services .common-sec-title h3 {
+    font-size: 23px;
+}
+.services-product {
+
+    margin-bottom: 20px;
+}
+.services-area {
+    padding-bottom: 33px;
+}
+.team-area {
+    padding-top: 50px;
+}
+.team-title .common-sec-title h3 {
+    font-size:19px;
+}
+.team-title .title-bottom {
+    padding-bottom: 50px;
+}
+.team-content img {
+    width: 100px;
+    height: 100px;
+}
+.team-area {
+    padding-bottom: 0px;
+}
+.portfolio-area {
+    padding-top: 50px;
+}
+.portfolio .common-sec-title h3 {
+    color: black;
+    font-size: 31px;
+}
+.portfolio-button ul li a {
+    list-style: none;
+    text-decoration: none;
+    display: inline-block;
+    color: #43413D;
+    font-size: 12px;
+    padding: 6px 20px;
+    background: #ebc985;
+    text-transform: uppercase;
+}
+.portfolio-item .common-button {
+    margin-top: -47px;
+}
+.portfolio-area {
+    padding-bottom: 50px;
+}
+.about-us-area {
+    padding-top: 50px;
+}
+.about-us-title h3 {
+    font-size: 18px;
+}
+.title-bottom {
+    padding-bottom: 50px;
+}
+.author-about-text {
+    padding-left: 10px;
+    padding-right: 10px;
+}
+.author-item {
+    padding-left: 0px;
+}
+.footer-area ul li a {
+    font-size: 10px;
+}
+.contact-area {
+    padding-top: 50px;
+}
+.team-content h4 {
+    font-size: 20px;
+}
+}
